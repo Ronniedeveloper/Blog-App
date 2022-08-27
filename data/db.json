@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "React is good for Front-end!",
+      "body": "Ladies and gentlemen straight\nto the main event of the evenig the man in the red corner number of fights 2 he has lost one an ran away from one",
+      "author": "Ronnie",
+      "id": 1
+    },
+    {
+      "title": "React is good for Front-end!",
+      "body": "Ladies and gentlemen straight\nto the main event of the evenig the man in the red corner number of fights 2 he has lost one an ran away from one",
+      "author": "Ronnie",
+      "id": 2
+    },
+    {
+      "title": "React is good for Front-end!",
+      "body": "Ladies and gentlemen straight\nto the main event of the evenig the man in the red corner number of fights 2 he has lost one an ran away from one",
+      "author": "Ronnie",
+      "id": 3
+    },
+    {
+      "title": "React is good for Front-end!",
+      "body": "Ladies and gentlemen straight\nto the main event of the evenig the man in the red corner number of fights 2 he has lost one an ran away from one",
+      "author": "Ronnie",
+      "id": 4
+    }
+  ]
+}
